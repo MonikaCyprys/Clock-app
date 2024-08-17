@@ -1,6 +1,6 @@
 (function () {
   const url =
-    "https://api.ipgeolocation.io/ipgeo?apiKey=a64c5cd36a8845578bada08e0052dcd8&";
+    "https://api.ipgeolocation.io/ipgeo?apiKey="; //removed temporary
 
   async function getLocationAndTime(url) {
     const {
