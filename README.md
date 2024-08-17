@@ -1,6 +1,6 @@
 # Clock-widget
 
-This project is inspired from Frontend Mentor challenge. It shows clock widget with location based on public user IP.
+[TEMPORARY SUSPENDED] This project is inspired from Frontend Mentor challenge. It shows clock widget with location based on public user IP.
 
 ## Table of contents
 
